@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ludo Royale</string>
+    <string name="play_vs_ai">Play vs Computer</string>
+    <string name="pass_and_play">Pass &amp; Play</string>
+    <string name="online_multiplayer">Private Room</string>
+    <string name="two_players">2 Players</string>
+    <string name="four_players">4 Players</string>
+    <string name="create_room">Create Room</string>
+    <string name="join_room">Join Room</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="settings_title">Game Settings</string>
+    <string name="leaderboard_title">Leaderboard</string>
+    <string name="achievements_title">Achievements</string>
+    <string name="profile_title">Player Profile</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="haptics">Vibration</string>
+    <string name="dark_mode">Dark Theme</string>
+</resources>

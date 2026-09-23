@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Royale",
+  "description": "A polished multiplayer Indian Ludo game with 2/4-player modes, local pass & play, vs AI, private rooms, animated 3D dice, audio effects, achievements, and themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
